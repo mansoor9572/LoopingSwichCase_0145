@@ -9,3 +9,12 @@ float luasLingkaran(float a) {
     return 3.14 * a * a;
 }
 
+int main(){
+    int pilihan;
+    float panjang, lebar;
+    float jari;
+
+    
+}
+
+
